@@ -1,0 +1,91 @@
+{
+    "equipment": [
+        {
+            "Name": "laser welder",
+            "Cost": 150000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "$1 Buyout Lease"
+        },
+        {
+            "Name": "Lapping MAchine",
+            "Cost": 20000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "Short-Term Debt"
+        },
+        {
+            "Name": "large ultrasonic tank",
+            "Cost": 500000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "Cash Purchase"
+        },
+        {
+            "Name": "Large VAcuum FUrnace",
+            "Cost": 100000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "$1 Buyout Lease"
+        },
+        {
+            "Name": "Sinker EDM",
+            "Cost": 70000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "$1 Buyout Lease"
+        },
+        {
+            "Name": "TST equip",
+            "Cost": 242000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "FMV Lease"
+        },
+        {
+            "Name": "Corrugation MAchine",
+            "Cost": 400000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "Long-Term Debt"
+        },
+        {
+            "Name": "Workstations",
+            "Cost": 50000,
+            "Useful Life": 10,
+            "Max Capacity": 10000,
+            "Financing": "FMV Lease"
+        }
+    ],
+    "products": [
+        {
+            "Name": "HPM COmponents",
+            "Initial Units": 500,
+            "Unit Price": 25000,
+            "Unit Cost": 12500,
+            "Growth Rate": 0.11
+        },
+        {
+            "Name": "ECH SSystem COmponetns",
+            "Initial Units": 50,
+            "Unit Price": 75000,
+            "Unit Cost": 50000,
+            "Growth Rate": 0.1
+        },
+        {
+            "Name": "Custom RF Design",
+            "Initial Units": 10,
+            "Unit Price": 150000,
+            "Unit Cost": 75000,
+            "Growth Rate": 0.1
+        }
+    ],
+    "cost_drivers": [
+        {
+            "Cost of Goods Sold": 0.5,
+            "Selling, General, and Administrative Expenses": 0.2,
+            "Research and Development Expenses": 0.1,
+            "Depreciation": 0.1
+        }
+    ]
+}
