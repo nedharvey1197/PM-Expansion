@@ -4,7 +4,7 @@ import numpy as np
 import json
 import os
 
-SAVE_FILE = "financial_model_product_cost.json"
+SAVE_FILE = "financial_model_debug.json"
 
 # Function to save and load data
 def save_model(equipment_list, product_list, product_costs):
